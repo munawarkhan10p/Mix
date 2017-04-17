@@ -1,0 +1,4 @@
+immediate windows ctrl+alt+i 
+file open >of
+project open >op
+attach process ctrl+alt+p
