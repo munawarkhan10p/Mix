@@ -12,3 +12,5 @@ Company Header
  <div class="info">
                         @{Html.RenderAction("CompanyHeader", "BusinessFrames", new { companyID = Model.CompanyID, marketID = Model.MarketID });}
                     </div>
+[HostURL][TestingURL][IsActive][AccessToken][URLFriendlyName][Name]ShowKeyStatistics][EnableExternalLinks][CustomJavascripts][IRAppID]
+[CustomCSSAr][CustomCSSEn][FontStyle]
