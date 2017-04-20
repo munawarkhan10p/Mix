@@ -1,0 +1,14 @@
+Company Header 
+@{
+    string indexValue = "-";
+    string change = "-";
+    string colorClassChange = string.Empty;
+    string percentageChange = "-";
+    string colorClassPercentageChange = string.Empty;
+    string noChangeImageDirection = Html.GetImageDirectionClass(0);
+    string changeImageDirection = "";
+    string percentageChangeImageDirection = noChangeImageDirection;
+}
+ <div class="info">
+                        @{Html.RenderAction("CompanyHeader", "BusinessFrames", new { companyID = Model.CompanyID, marketID = Model.MarketID });}
+                    </div>
