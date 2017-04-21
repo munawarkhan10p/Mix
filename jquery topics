@@ -1,2 +1,10 @@
 jquery topics
 append appendtp prepend prependto after insertafter before insertbefore wrap wrapAll remove empty unwrap detach replaceAll replaceWith
+http://api.jquery.com/category/events/event-object/ also used in _layout.cshtml for tooltip for pageX and pageY
+ $("[title-data]").mousemove(function (e) {
+            $("div#tooltip").css('top', e.pageY + moveDown).css('left', e.pageX + moveLeft);
+        });
+        $("body").mousemove(function (e) {
+            $('.loader-icon').css('left', e.pageX + 10).css('top', e.pageY + 10).css('display', 'block');
+        });
+        
