@@ -14,3 +14,21 @@ Company Header
                     </div>
 [HostURL][TestingURL][IsActive][AccessToken][URLFriendlyName][Name]ShowKeyStatistics][EnableExternalLinks][CustomJavascripts][IRAppID]
 [CustomCSSAr][CustomCSSEn][FontStyle]
+@section InHeaderSection{
+    <style>
+            @Html.Raw(Model.BusinessFrame.FontStyle)
+                @Html.Raw(Model.BusinessFrame.Localized("CustomCSS"))
+            </style>
+}
+BusinessFramesController  _LayoutBusinessFrames  _LayoutBusinessFramesCompanies  _BusinessFrameScriptsAndStyles
+
+_LayoutComanies
+{   if (!Request.Url.Query.ToLower().Contains("accesstoken"))
+    {
+        Layout = "~/views/shared/_layout.cshtml";
+    }
+    else
+    {
+        Layout = "~/views/shared/_LayoutBusinessFrame.cshtml";
+    }
+}
