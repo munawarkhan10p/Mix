@@ -11,3 +11,5 @@ also used in _layout.cshtml for tooltip for pageX and pageY
         });
         
 http://api.jquery.com/category/ajax/
+jQuery: Select values from a JSON object using jQuery
+http://www.w3resource.com/jquery-exercises/part1/jquery-practical-exercise-13.php
