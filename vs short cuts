@@ -3,3 +3,7 @@ file open >of
 project open >op
 attach process ctrl+alt+p
 ctrl + tab for searching in tabs like start + tab on windows
+ctrl + shift + B to build application
+F8 to cycles through errors
+alt + tab to switch between applications
+ctrl + R to refresh current page in the browser
