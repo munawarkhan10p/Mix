@@ -7,3 +7,6 @@ ctrl + shift + B to build application
 F8 to cycles through errors
 alt + tab to switch between applications
 ctrl + R to refresh current page in the browser
+prop + tab tab to create property
+class + tab tab to create class
+
