@@ -17,3 +17,5 @@ http://www.w3resource.com/jquery-exercises/part1/jquery-practical-exercise-13.ph
 === Strict equal to Checks the left side and right sides not only for equality of value but also for equality of data type.
 For example, if(3==“3”) evaluates to true because the value is the same. However, if(3===“3”) evaluates to false because although 
 the values are the same, their data types aren’t. The left side is a number; the right side is a string. 
+
+Difference between async:false and async:true in ajax
