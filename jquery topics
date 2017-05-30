@@ -19,3 +19,5 @@ For example, if(3==“3”) evaluates to true because the value is the same. How
 the values are the same, their data types aren’t. The left side is a number; the right side is a string. 
 
 Difference between async:false and async:true in ajax
+<li id="mostCommentedTab" class="" onclick='javascript:mostCommentedTabAction();return false;'>
+purpose of using return false
