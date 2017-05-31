@@ -23,3 +23,5 @@ Difference between async:false and async:true in ajax
 purpose of using return false
 https://www.w3schools.com/css/css_pseudo_classes.asp  css pseudi classes
 jquery pseudo class selector
+
+https://jsperf.com/browse best website to check performance of your jquery 
