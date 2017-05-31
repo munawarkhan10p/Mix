@@ -21,3 +21,5 @@ the values are the same, their data types aren’t. The left side is a number; t
 Difference between async:false and async:true in ajax
 <li id="mostCommentedTab" class="" onclick='javascript:mostCommentedTabAction();return false;'>
 purpose of using return false
+https://www.w3schools.com/css/css_pseudo_classes.asp  css pseudi classes
+jquery pseudo class selector
