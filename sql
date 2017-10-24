@@ -59,3 +59,13 @@ BEGIN Transaction – opens a transaction
 COMMIT Transaction – commits a transaction
 ROLLBACK Transaction – ROLLBACK a transaction in case of any error
 ***********************************************************************************************************************************
+http://www.tech-recipes.com/rx/category/database/
+
+Every table needs a clustered index and a primary key. By default, the PK is clustered but it can be non-clustered if you want like you're done.
+
+You have specified a non-clustered PK so the profiler suggests a clustered index...
+
+Note: a table without a clustered index is called a "heap" because it's a pile of unstructured data..
+https://stackoverflow.com/users/73226/martin-smith?tab=answers
+SQL Server Query Performance Tuning
+byGrant Fritchey
