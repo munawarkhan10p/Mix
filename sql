@@ -69,3 +69,9 @@ Note: a table without a clustered index is called a "heap" because it's a pile o
 https://stackoverflow.com/users/73226/martin-smith?tab=answers
 SQL Server Query Performance Tuning
 byGrant Fritchey
+********************************************sql ebooks*****************************************************************
+
+T-SQL Fundamentals (3rd Edition)
+T-SQL Querying (Developer Reference)
+Microsoft SQL Server 2012 T-SQL Fundamentals (Developer Reference)
+
