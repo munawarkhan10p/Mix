@@ -75,4 +75,4 @@ T-SQL Fundamentals (3rd Edition)
 T-SQL Querying (Developer Reference)
 Microsoft SQL Server 2012 T-SQL Fundamentals (Developer Reference)
 SQL Practice Problems: 57 beginning, intermediate, and advanced challen
-
+https://www.safaribooksonline.com/library/view/t-sql-fundamentals-third/9781509302031/
