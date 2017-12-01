@@ -71,8 +71,14 @@ SQL Server Query Performance Tuning
 byGrant Fritchey
 ********************************************sql ebooks*****************************************************************
 
-T-SQL Fundamentals (3rd Edition)
+T-SQL Fundamentals (3rd Edition) by iztik bin gan
 T-SQL Querying (Developer Reference)
 Microsoft SQL Server 2012 T-SQL Fundamentals (Developer Reference)
 SQL Practice Problems: 57 beginning, intermediate, and advanced challen
 https://www.safaribooksonline.com/library/view/t-sql-fundamentals-third/9781509302031/
+
+query writing order                           query execution order
+select from where groupby having orderby     from where groupby having select orderby 
+
+
+
