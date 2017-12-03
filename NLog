@@ -1,0 +1,3 @@
+Internal Logging:
+If you have trouble getting NLog to work properly you may want to enable internal logging, 
+which can help identify where the problem is. Internal log output can be sent to a file, console window or both.
