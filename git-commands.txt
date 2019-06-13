@@ -1,0 +1,2 @@
+git diff           compare files between working copy and repository 
+git diff --staged  compare staged and repository files
